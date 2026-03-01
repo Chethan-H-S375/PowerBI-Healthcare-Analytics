@@ -16,6 +16,3 @@ Interactive Power BI dashboard analyzing healthcare trends.
 ## Files
 - healthcare.pbix
 - dataset.csv
-
-## Dashboard Preview
-![Dashboard](dashboard.png)
